@@ -28,3 +28,10 @@ https://linktr.ee/oahu.maps
 
 ### Ketchum.today
 https://linktr.ee/ketchum.today 
+
+.
+
+### Shop Tucson
+https://linktr.ee/shop.tucson 
+
+
