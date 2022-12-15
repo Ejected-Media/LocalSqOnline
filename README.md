@@ -34,4 +34,9 @@ https://linktr.ee/ketchum.today
 ### Shop Tucson
 https://linktr.ee/shop.tucson 
 
+.
+
+### Shop Savannah
+https://linktr.ee/shop.savannah 
+
 
