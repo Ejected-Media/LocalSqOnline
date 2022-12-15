@@ -13,3 +13,7 @@
  
  
  ### Shop localSq  -  On Tablet and in the Web 
+
+.
+
+### What, When, Where - Locally Online 
