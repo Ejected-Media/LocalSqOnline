@@ -11,3 +11,5 @@
  
  
  
+ 
+ ### Shop localSq  -  On Tablet and in the Web 
