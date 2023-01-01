@@ -5,7 +5,7 @@ package main
 
 // .
 
-import {
+import (
 
     "os"
 	"log"
@@ -14,7 +14,7 @@ import {
 	"net/http"
 
 
-}
+)
 
 
 type htmlPageData struct {
