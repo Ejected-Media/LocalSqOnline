@@ -1,5 +1,5 @@
 /// _webapp labs foundation
-// . . Ejected . media for LocalSqOnline
+// . . Ejected . media for visit.LocalSq.Online
 
 package main
 
